@@ -267,5 +267,14 @@
       "You have not fixed the add function in calculator.py"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787562430.75224,
+    "completed_at": 1787562435.585836,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
