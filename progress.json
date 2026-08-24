@@ -249,5 +249,14 @@
       "You have not fixed the add function in calculator.py"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787562349.166557,
+    "completed_at": 1787562353.623787,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
   }
 ]
